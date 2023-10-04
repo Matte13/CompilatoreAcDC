@@ -17,8 +17,11 @@ Source Program
 
 DC Code
 
-  5 sa 0 k
-  la 5 k 3.2 + sb 0 k
-  lb 7 5 k + sb 0 k
-  lb p P
+              5 sa 0 k
+              
+              la 5 k 3.2 + sb 0 k
+              
+              lb 7 5 k + sb 0 k
+              
+              lb p P
 
