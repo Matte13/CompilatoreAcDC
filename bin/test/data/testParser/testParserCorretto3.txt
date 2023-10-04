@@ -1,0 +1,4 @@
+int temp= 5 - 7 * 6.0 + 2;
+float y=temp+1;
+temp = y+7/temp/4;
+print temp;
