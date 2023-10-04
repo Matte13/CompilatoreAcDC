@@ -5,10 +5,10 @@ Compilatore scritto in Java che consente di tradurre programmi Ac in codice Dc (
 
 Source Program
 
-  #int tempa;
+  int tempa;
   tempa = 5; 
-  float tempb = tempa + 3.2; 
-  tempb = tempb + 7; 
+  float tempb = tempa + 3.2;
+  tempb = tempb + 7;
   print tempb;
 
 DC Code
